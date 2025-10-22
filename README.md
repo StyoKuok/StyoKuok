@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=StyoKuok&show_icons=true&theme=vue)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StyoKuok&layout=compact&theme=vision-friendly)
 <!--
 **StyoKuok/StyoKuok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
