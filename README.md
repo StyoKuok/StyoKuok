@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am StyoKuok
 ![github stats](https://github-readme-stats.vercel.app/api?username=StyoKuok&show_icons=true&theme=vue)
-#### I'm Eric, a undergraduate in Zhejiang University majoring in Agricultural Engineering, with strong research interest in reconstruction.
 <!--
 **StyoKuok/StyoKuok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
