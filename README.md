@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋This is (Eric) Zhenghe Guo😄
+### My personal Website: https://styokuok.github.io/main/
 <!--
 **StyoKuok/StyoKuok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
