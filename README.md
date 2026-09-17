@@ -1,5 +1,5 @@
 ## Hi there 👋This is (Eric) Zhenghe GUO😄
-### I'm currently a third year engineering undergraduate student at Zhejiang University.
+### I'm currently a final year B.Eng. student at Zhejiang University.
 ### My personal Website: https://styokuok.github.io/main/
 <!--
 **StyoKuok/StyoKuok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
